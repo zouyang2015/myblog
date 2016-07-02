@@ -19,7 +19,8 @@
             {
                 "JavaScript": [
                     "ES6.md",
-                    "webpack.md"
+                    "webpack.md",
+                    "babel.md"
                 ]
             }
         ]
