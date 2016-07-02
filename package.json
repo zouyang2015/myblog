@@ -16,7 +16,12 @@
         "theme": "blog",
         "md": [
             "index.md",
-            "webpack.md"
+            {
+                "JavaScript": [
+                    "ES6.md",
+                    "webpack.md"
+                ]
+            }
         ]
     }
 }
